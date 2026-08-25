@@ -109,7 +109,7 @@
                     "last_commit": "2026-01-30T04:47:30Z",
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19833
+                    "stars": 19832
                   }
                 },
                 {
@@ -154,7 +154,7 @@
                     "last_commit": "2026-01-30T04:47:30Z",
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19833
+                    "stars": 19832
                   }
                 },
                 {
@@ -619,7 +619,7 @@
                         "last_commit": "2026-08-24T02:25:49Z",
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4357
+                        "stars": 4356
                       }
                     },
                     {
@@ -672,7 +672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:07:12.298Z",
+    "last_updated": "2026-08-25T06:35:41.454Z",
     "original_repository": "pipixin321/Awesome-Video-MLLMs",
     "original_repository_id": 898411035,
     "original_repository_sha": "eace0b0b2ea071fb10b0eca21ecbe09ccfe16bcd",
