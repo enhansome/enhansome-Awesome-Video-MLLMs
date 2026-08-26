@@ -19,7 +19,7 @@
                     "last_commit": "2025-09-22T01:36:48Z",
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10143
+                    "stars": 10145
                   }
                 },
                 {
@@ -31,10 +31,10 @@
                     "archived": false,
                     "id": 749647889,
                     "language": "Python",
-                    "last_commit": "2026-08-24T06:17:31Z",
+                    "last_commit": "2026-08-25T17:06:29Z",
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26228
+                    "stars": 26234
                   }
                 },
                 {
@@ -79,7 +79,7 @@
                     "last_commit": "2025-09-22T01:36:48Z",
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10143
+                    "stars": 10145
                   }
                 },
                 {
@@ -109,7 +109,7 @@
                     "last_commit": "2026-01-30T04:47:30Z",
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19832
+                    "stars": 19841
                   }
                 },
                 {
@@ -154,7 +154,7 @@
                     "last_commit": "2026-01-30T04:47:30Z",
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19832
+                    "stars": 19841
                   }
                 },
                 {
@@ -181,10 +181,10 @@
                     "archived": false,
                     "id": 749647889,
                     "language": "Python",
-                    "last_commit": "2026-08-24T06:17:31Z",
+                    "last_commit": "2026-08-25T17:06:29Z",
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26228
+                    "stars": 26234
                   }
                 },
                 {
@@ -214,7 +214,7 @@
                     "last_commit": "2025-09-22T01:36:48Z",
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10143
+                    "stars": 10145
                   }
                 },
                 {
@@ -259,7 +259,7 @@
                     "last_commit": "2025-03-18T07:59:52Z",
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "LongVA",
-                    "stars": 411
+                    "stars": 412
                   }
                 },
                 {
@@ -289,7 +289,7 @@
                     "last_commit": "2026-03-12T01:04:00Z",
                     "owner": "NVlabs",
                     "repo": "VILA",
-                    "stars": 3858
+                    "stars": 3857
                   }
                 },
                 {
@@ -379,7 +379,7 @@
                     "last_commit": "2025-01-29T11:16:02Z",
                     "owner": "wenhaochai",
                     "repo": "MovieChat",
-                    "stars": 706
+                    "stars": 707
                   }
                 },
                 {
@@ -616,10 +616,10 @@
                         "archived": false,
                         "id": 725956246,
                         "language": "Python",
-                        "last_commit": "2026-08-24T02:25:49Z",
+                        "last_commit": "2026-08-25T11:55:38Z",
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4356
+                        "stars": 4355
                       }
                     },
                     {
@@ -672,7 +672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:35:41.454Z",
+    "last_updated": "2026-08-26T05:07:04.562Z",
     "original_repository": "pipixin321/Awesome-Video-MLLMs",
     "original_repository_id": 898411035,
     "original_repository_sha": "eace0b0b2ea071fb10b0eca21ecbe09ccfe16bcd",
