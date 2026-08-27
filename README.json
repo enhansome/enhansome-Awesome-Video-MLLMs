@@ -31,10 +31,10 @@
                     "archived": false,
                     "id": 749647889,
                     "language": "Python",
-                    "last_commit": "2026-08-25T17:06:29Z",
+                    "last_commit": "2026-08-26T09:50:07Z",
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26234
+                    "stars": 26243
                   }
                 },
                 {
@@ -49,7 +49,7 @@
                     "last_commit": "2026-07-24T21:37:38Z",
                     "owner": "PaddlePaddle",
                     "repo": "ERNIE",
-                    "stars": 7738
+                    "stars": 7737
                   }
                 },
                 {
@@ -109,7 +109,7 @@
                     "last_commit": "2026-01-30T04:47:30Z",
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19841
+                    "stars": 19850
                   }
                 },
                 {
@@ -154,7 +154,7 @@
                     "last_commit": "2026-01-30T04:47:30Z",
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19841
+                    "stars": 19850
                   }
                 },
                 {
@@ -181,10 +181,10 @@
                     "archived": false,
                     "id": 749647889,
                     "language": "Python",
-                    "last_commit": "2026-08-25T17:06:29Z",
+                    "last_commit": "2026-08-26T09:50:07Z",
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26234
+                    "stars": 26243
                   }
                 },
                 {
@@ -229,7 +229,7 @@
                     "last_commit": "2025-01-23T04:20:22Z",
                     "owner": "DAMO-NLP-SG",
                     "repo": "VideoLLaMA2",
-                    "stars": 1306
+                    "stars": 1307
                   }
                 },
                 {
@@ -364,7 +364,7 @@
                     "last_commit": "2024-12-03T02:58:46Z",
                     "owner": "PKU-YuanGroup",
                     "repo": "Video-LLaVA",
-                    "stars": 3500
+                    "stars": 3499
                   }
                 },
                 {
@@ -506,7 +506,7 @@
                     "last_commit": "2025-03-28T00:56:46Z",
                     "owner": "VITA-MLLM",
                     "repo": "VITA",
-                    "stars": 2532
+                    "stars": 2534
                   }
                 }
               ],
@@ -616,10 +616,10 @@
                         "archived": false,
                         "id": 725956246,
                         "language": "Python",
-                        "last_commit": "2026-08-25T11:55:38Z",
+                        "last_commit": "2026-08-26T11:31:03Z",
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4355
+                        "stars": 4360
                       }
                     },
                     {
@@ -672,9 +672,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:07:04.562Z",
-    "original_repository": "pipixin321/Awesome-Video-MLLMs",
-    "original_repository_id": 898411035,
+    "last_updated": "2026-08-27T11:25:33.067Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 898411035,
+      "language": null,
+      "last_commit": "2025-09-01T13:33:15Z",
+      "owner": "pipixin321",
+      "repo": "Awesome-Video-MLLMs",
+      "stars": 71
+    },
     "original_repository_sha": "eace0b0b2ea071fb10b0eca21ecbe09ccfe16bcd",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-MLLMs",
     "enhanced_repository_description": null,
