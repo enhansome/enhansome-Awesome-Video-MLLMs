@@ -19,8 +19,9 @@
                     "last_commit": "2025-09-22T01:36:48Z",
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10146
-                  }
+                    "stars": 10147
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -34,8 +35,9 @@
                     "last_commit": "2026-08-26T09:50:07Z",
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26244
-                  }
+                    "stars": 26247
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "PaddlePaddle",
                     "repo": "ERNIE",
                     "stars": 7737
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "quicksviewer",
                     "repo": "quicksviewer",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -79,8 +83,9 @@
                     "last_commit": "2025-09-22T01:36:48Z",
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10146
-                  }
+                    "stars": 10147
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -95,7 +100,8 @@
                     "owner": "VITA-MLLM",
                     "repo": "Long-VITA",
                     "stars": 306
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -109,8 +115,9 @@
                     "last_commit": "2026-01-30T04:47:30Z",
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19850
-                  }
+                    "stars": 19856
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -125,7 +132,8 @@
                     "owner": "TimeMarker-LLM",
                     "repo": "TimeMarker",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -140,7 +148,8 @@
                     "owner": "rhymes-ai",
                     "repo": "Aria",
                     "stars": 1087
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -154,8 +163,9 @@
                     "last_commit": "2026-01-30T04:47:30Z",
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19850
-                  }
+                    "stars": 19856
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -170,7 +180,8 @@
                     "owner": "Vision-CAIR",
                     "repo": "LongVU",
                     "stars": 433
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -184,8 +195,9 @@
                     "last_commit": "2026-08-26T09:50:07Z",
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26244
-                  }
+                    "stars": 26247
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -200,7 +212,8 @@
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
                     "stars": 2539
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -214,8 +227,9 @@
                     "last_commit": "2025-09-22T01:36:48Z",
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10146
-                  }
+                    "stars": 10147
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -230,7 +244,8 @@
                     "owner": "DAMO-NLP-SG",
                     "repo": "VideoLLaMA2",
                     "stars": 1307
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -245,7 +260,8 @@
                     "owner": "ShareGPT4Omni",
                     "repo": "ShareGPT4Video",
                     "stars": 1093
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -260,7 +276,8 @@
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "LongVA",
                     "stars": 412
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -275,7 +292,8 @@
                     "owner": "ziplab",
                     "repo": "LongVLM",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -289,8 +307,9 @@
                     "last_commit": "2026-03-12T01:04:00Z",
                     "owner": "NVlabs",
                     "repo": "VILA",
-                    "stars": 3857
-                  }
+                    "stars": 3858
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -305,7 +324,8 @@
                     "owner": "RenShuhuai-Andy",
                     "repo": "TimeChat",
                     "stars": 425
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -320,7 +340,8 @@
                     "owner": "PKU-YuanGroup",
                     "repo": "Chat-UniVi",
                     "stars": 941
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -335,7 +356,8 @@
                     "owner": "huangb23",
                     "repo": "VTimeLLM",
                     "stars": 296
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -350,7 +372,8 @@
                     "owner": "JIA-Lab-research",
                     "repo": "LLaMA-VID",
                     "stars": 861
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -365,7 +388,8 @@
                     "owner": "PKU-YuanGroup",
                     "repo": "Video-LLaVA",
                     "stars": 3499
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -380,7 +404,8 @@
                     "owner": "wenhaochai",
                     "repo": "MovieChat",
                     "stars": 707
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -395,7 +420,8 @@
                     "owner": "mbzuai-oryx",
                     "repo": "Video-ChatGPT",
                     "stars": 1506
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -410,7 +436,8 @@
                     "owner": "RupertLuo",
                     "repo": "Valley",
                     "stars": 232
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -425,7 +452,8 @@
                     "owner": "DAMO-NLP-SG",
                     "repo": "Video-LLaMA",
                     "stars": 3139
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -439,8 +467,9 @@
                     "last_commit": "2026-07-17T10:31:09Z",
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3346
-                  }
+                    "stars": 3347
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -455,7 +484,8 @@
                     "owner": "OpenGVLab",
                     "repo": "LLaMA-Adapter",
                     "stars": 5914
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 }
               ],
               "description": null,
@@ -476,8 +506,9 @@
                     "last_commit": "2025-07-24T11:11:51Z",
                     "owner": "JoeLeelyf",
                     "repo": "OVO-Bench",
-                    "stars": 160
-                  }
+                    "stars": 161
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -492,7 +523,8 @@
                     "owner": "Mark12Ding",
                     "repo": "Dispider",
                     "stars": 181
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -507,7 +539,8 @@
                     "owner": "VITA-MLLM",
                     "repo": "VITA",
                     "stars": 2534
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 }
               ],
               "description": null,
@@ -529,7 +562,8 @@
                     "owner": "VITA-MLLM",
                     "repo": "Sparrow",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 },
                 {
                   "node_type": "item",
@@ -544,7 +578,8 @@
                     "owner": "xjtupanda",
                     "repo": "Sparrow",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:56.946Z"
                 }
               ],
               "description": null,
@@ -574,8 +609,9 @@
                         "last_commit": "2026-07-17T10:31:09Z",
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3346
-                      }
+                        "stars": 3347
+                      },
+                      "first_seen": "2026-08-28T16:51:56.946Z"
                     },
                     {
                       "node_type": "item",
@@ -590,7 +626,8 @@
                         "owner": "llyx97",
                         "repo": "TempCompass",
                         "stars": 133
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:51:56.946Z"
                     },
                     {
                       "node_type": "item",
@@ -604,8 +641,9 @@
                         "last_commit": "2025-12-08T06:31:55Z",
                         "owner": "MME-Benchmarks",
                         "repo": "Video-MME",
-                        "stars": 788
-                      }
+                        "stars": 789
+                      },
+                      "first_seen": "2026-08-28T16:51:56.946Z"
                     },
                     {
                       "node_type": "item",
@@ -616,11 +654,12 @@
                         "archived": false,
                         "id": 725956246,
                         "language": "Python",
-                        "last_commit": "2026-08-26T11:31:03Z",
+                        "last_commit": "2026-08-28T10:38:57Z",
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4360
-                      }
+                        "stars": 4362
+                      },
+                      "first_seen": "2026-08-28T16:51:56.946Z"
                     },
                     {
                       "node_type": "item",
@@ -635,7 +674,8 @@
                         "owner": "JUNJIE99",
                         "repo": "MLVU",
                         "stars": 268
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:51:56.946Z"
                     },
                     {
                       "node_type": "item",
@@ -650,7 +690,8 @@
                         "owner": "keshik6",
                         "repo": "HourVideo",
                         "stars": 145
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:51:56.946Z"
                     }
                   ],
                   "description": null,
@@ -672,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:25:17.107Z",
+    "last_updated": "2026-08-28T16:51:56.946Z",
     "original_repository_info": {
       "archived": false,
       "id": 898411035,
