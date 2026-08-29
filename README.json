@@ -14,12 +14,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型",
+                    "homepage": "https://internvl.readthedocs.io/en/latest/",
                     "id": 721995615,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-22T01:36:48Z",
+                    "open_issues": 315,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10147
+                    "stars": 10148,
+                    "topics": [
+                      "gpt",
+                      "gpt-4o",
+                      "gpt-4v",
+                      "image-classification",
+                      "image-text-retrieval",
+                      "llm",
+                      "multi-modal",
+                      "semantic-segmentation",
+                      "video-classification",
+                      "vision-language-model",
+                      "vit-22b",
+                      "vit-6b"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -30,12 +48,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone",
+                    "homepage": null,
                     "id": 749647889,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T09:50:07Z",
+                    "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26247
+                    "stars": 26253,
+                    "topics": [
+                      "minicpm",
+                      "minicpm-o",
+                      "minicpm-v",
+                      "multi-modal"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -46,12 +74,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle.",
+                    "homepage": "https://ernie.baidu.com",
                     "id": 173544440,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-24T21:37:38Z",
+                    "open_issues": 82,
                     "owner": "PaddlePaddle",
                     "repo": "ERNIE",
-                    "stars": 7737
+                    "stars": 7737,
+                    "topics": [
+                      "ernie",
+                      "ernie-45",
+                      "ernie-45-vl",
+                      "erniekit",
+                      "llm",
+                      "vlm"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -62,12 +102,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 970332103,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-06-29T06:51:40Z",
+                    "open_issues": 3,
                     "owner": "quicksviewer",
                     "repo": "quicksviewer",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -78,12 +123,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型",
+                    "homepage": "https://internvl.readthedocs.io/en/latest/",
                     "id": 721995615,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-22T01:36:48Z",
+                    "open_issues": 315,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10147
+                    "stars": 10148,
+                    "topics": [
+                      "gpt",
+                      "gpt-4o",
+                      "gpt-4v",
+                      "image-classification",
+                      "image-text-retrieval",
+                      "llm",
+                      "multi-modal",
+                      "semantic-segmentation",
+                      "video-classification",
+                      "vision-language-model",
+                      "vit-22b",
+                      "vit-6b"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -94,12 +157,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "✨✨Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy",
+                    "homepage": null,
                     "id": 903228991,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-05-14T02:38:51Z",
+                    "open_issues": 6,
                     "owner": "VITA-MLLM",
                     "repo": "Long-VITA",
-                    "stars": 306
+                    "stars": 306,
+                    "topics": [
+                      "long-context",
+                      "mllm",
+                      "vision-language-model"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -110,12 +182,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+                    "homepage": null,
                     "id": 849239437,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-30T04:47:30Z",
+                    "open_issues": 424,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19856
+                    "stars": 19857,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -126,12 +203,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability",
+                    "homepage": null,
                     "id": 880157117,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-28T06:07:47Z",
+                    "open_issues": 4,
                     "owner": "TimeMarker-LLM",
                     "repo": "TimeMarker",
-                    "stars": 109
+                    "stars": 109,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -142,12 +224,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Codebase for Aria - an Open Multimodal Native MoE",
+                    "homepage": null,
                     "id": 864723945,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-22T03:25:37Z",
+                    "open_issues": 33,
                     "owner": "rhymes-ai",
                     "repo": "Aria",
-                    "stars": 1087
+                    "stars": 1087,
+                    "topics": [
+                      "mixture-of-experts",
+                      "multimodal",
+                      "vision-and-language"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -158,12 +249,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+                    "homepage": null,
                     "id": 849239437,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-30T04:47:30Z",
+                    "open_issues": 424,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19856
+                    "stars": 19857,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -174,12 +270,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2025] Official PyTorch implementation of LongVU",
+                    "homepage": "https://vision-cair.github.io/LongVU",
                     "id": 873773861,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-08T22:46:31Z",
+                    "open_issues": 34,
                     "owner": "Vision-CAIR",
                     "repo": "LongVU",
-                    "stars": 433
+                    "stars": 433,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -190,12 +291,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone",
+                    "homepage": null,
                     "id": 749647889,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T09:50:07Z",
+                    "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26247
+                    "stars": 26253,
+                    "topics": [
+                      "minicpm",
+                      "minicpm-o",
+                      "minicpm-v",
+                      "multi-modal"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -206,12 +317,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family",
+                    "homepage": "https://www.modelscope.cn/studios/damo/mPLUG-Owl",
                     "id": 632244130,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-04-02T12:30:45Z",
+                    "open_issues": 101,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
-                    "stars": 2539
+                    "stars": 2539,
+                    "topics": [
+                      "alpaca",
+                      "chatbot",
+                      "chatgpt",
+                      "damo",
+                      "dialogue",
+                      "gpt",
+                      "gpt4",
+                      "gpt4-api",
+                      "huggingface",
+                      "instruction-tuning",
+                      "large-language-models",
+                      "llama",
+                      "mplug",
+                      "mplug-owl",
+                      "multimodal",
+                      "pretraining",
+                      "pytorch",
+                      "transformer",
+                      "video",
+                      "visual-recognition"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -222,12 +359,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型",
+                    "homepage": "https://internvl.readthedocs.io/en/latest/",
                     "id": 721995615,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-22T01:36:48Z",
+                    "open_issues": 315,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10147
+                    "stars": 10148,
+                    "topics": [
+                      "gpt",
+                      "gpt-4o",
+                      "gpt-4v",
+                      "image-classification",
+                      "image-text-retrieval",
+                      "llm",
+                      "multi-modal",
+                      "semantic-segmentation",
+                      "video-classification",
+                      "vision-language-model",
+                      "vit-22b",
+                      "vit-6b"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -238,12 +393,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs",
+                    "homepage": null,
                     "id": 808716789,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-23T04:20:22Z",
+                    "open_issues": 87,
                     "owner": "DAMO-NLP-SG",
                     "repo": "VideoLLaMA2",
-                    "stars": 1307
+                    "stars": 1307,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -254,12 +414,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2024] An official implementation of \"ShareGPT4Video: Improving Video Understanding and Generation with Better Captions\"",
+                    "homepage": "https://sharegpt4video.github.io/",
                     "id": 811374381,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-10-09T20:36:13Z",
+                    "open_issues": 29,
                     "owner": "ShareGPT4Omni",
                     "repo": "ShareGPT4Video",
-                    "stars": 1093
+                    "stars": 1093,
+                    "topics": [
+                      "chatgpt",
+                      "gpt",
+                      "gpt-4v",
+                      "large-language-models",
+                      "large-multimodal-models",
+                      "large-video-language-models",
+                      "large-vision-language-models",
+                      "sora",
+                      "text-to-video"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -270,12 +445,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Long Context Transfer from Language to Vision",
+                    "homepage": null,
                     "id": 818148529,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-03-18T07:59:52Z",
+                    "open_issues": 29,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "LongVA",
-                    "stars": 412
+                    "stars": 412,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -286,12 +466,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 781301570,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-07-30T15:15:58Z",
+                    "open_issues": 10,
                     "owner": "ziplab",
                     "repo": "LongVLM",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -302,12 +487,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.",
+                    "homepage": null,
                     "id": 762193211,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-12T01:04:00Z",
+                    "open_issues": 77,
                     "owner": "NVlabs",
                     "repo": "VILA",
-                    "stars": 3858
+                    "stars": 3858,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -318,12 +508,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024] TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding",
+                    "homepage": "https://arxiv.org/abs/2312.02051",
                     "id": 727342750,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-05-08T14:07:29Z",
+                    "open_issues": 15,
                     "owner": "RenShuhuai-Andy",
                     "repo": "TimeChat",
-                    "stars": 425
+                    "stars": 425,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -334,12 +529,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024 Highlight🔥] Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding",
+                    "homepage": "https://arxiv.org/abs/2311.08046",
                     "id": 718107269,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-10-16T11:08:54Z",
+                    "open_issues": 20,
                     "owner": "PKU-YuanGroup",
                     "repo": "Chat-UniVi",
-                    "stars": 941
+                    "stars": 941,
+                    "topics": [
+                      "image-understanding",
+                      "large-language-models",
+                      "video-understanding",
+                      "vision-language-model"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -350,12 +555,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'2024 Highlight] Official PyTorch implementation of the paper \"VTimeLLM: Empower LLM to Grasp Video Moments\".",
+                    "homepage": "https://arxiv.org/pdf/2311.18445.pdf",
                     "id": 724474149,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-06-13T12:03:02Z",
+                    "open_issues": 14,
                     "owner": "huangb23",
                     "repo": "VTimeLLM",
-                    "stars": 296
+                    "stars": 296,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -366,12 +576,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models (ECCV 2024)",
+                    "homepage": null,
                     "id": 724542698,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-29T10:27:42Z",
+                    "open_issues": 44,
                     "owner": "JIA-Lab-research",
                     "repo": "LLaMA-VID",
-                    "stars": 861
+                    "stars": 861,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -382,12 +597,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "【EMNLP 2024🔥】Video-LLaVA: Learning United Visual Representation by Alignment Before Projection",
+                    "homepage": "https://arxiv.org/pdf/2311.10122.pdf",
                     "id": 708655533,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-12-03T02:58:46Z",
+                    "open_issues": 125,
                     "owner": "PKU-YuanGroup",
                     "repo": "Video-LLaVA",
-                    "stars": 3499
+                    "stars": 3499,
+                    "topics": [
+                      "instruction-tuning",
+                      "large-vision-language-model",
+                      "multi-modal"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -398,12 +622,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024] MovieChat: From Dense Token to Sparse Memory for Long Video Understanding",
+                    "homepage": "https://rese1f.github.io/MovieChat/",
                     "id": 658611851,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-01-29T11:16:02Z",
+                    "open_issues": 42,
                     "owner": "wenhaochai",
                     "repo": "MovieChat",
-                    "stars": 707
+                    "stars": 706,
+                    "topics": [
+                      "computer-vision",
+                      "dataset",
+                      "large-language-models",
+                      "llama",
+                      "long-video-understanding",
+                      "multimodal-large-language-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -414,12 +650,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL 2024 🔥] Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation. We also introduce a rigorous 'Quantitative Evaluation Benchmarking' for video-based conversational models.",
+                    "homepage": "https://mbzuai-oryx.github.io/Video-ChatGPT",
                     "id": 642368010,
                     "language": "Python",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2025-08-05T01:07:25Z",
+                    "open_issues": 26,
                     "owner": "mbzuai-oryx",
                     "repo": "Video-ChatGPT",
-                    "stars": 1506
+                    "stars": 1506,
+                    "topics": [
+                      "chatbot",
+                      "clip",
+                      "gpt-4",
+                      "llama",
+                      "llava",
+                      "mulit-modal",
+                      "vicuna",
+                      "video-chatboat",
+                      "video-conversation",
+                      "vision-language",
+                      "vision-language-pretraining"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -430,12 +683,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official repository of \"Video assistant towards large language model makes everything easy\"",
+                    "homepage": null,
                     "id": 650140706,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-24T10:07:38Z",
+                    "open_issues": 21,
                     "owner": "RupertLuo",
                     "repo": "Valley",
-                    "stars": 232
+                    "stars": 232,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -446,12 +704,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2023 Demo] Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding",
+                    "homepage": null,
                     "id": 637126931,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-06-04T07:06:41Z",
+                    "open_issues": 69,
                     "owner": "DAMO-NLP-SG",
                     "repo": "Video-LLaMA",
-                    "stars": 3139
+                    "stars": 3139,
+                    "topics": [
+                      "blip2",
+                      "cross-modal-pretraining",
+                      "large-language-models",
+                      "llama",
+                      "minigpt4",
+                      "multi-modal-chatgpt",
+                      "video-language-pretraining",
+                      "vision-language-pretraining"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -462,12 +734,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.",
+                    "homepage": "https://vchat.opengvlab.com/",
                     "id": 629922458,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-17T10:31:09Z",
+                    "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3347
+                    "stars": 3347,
+                    "topics": [
+                      "big-model",
+                      "captioning-videos",
+                      "chat",
+                      "chatgpt",
+                      "foundation-models",
+                      "gradio",
+                      "langchain",
+                      "large-language-models",
+                      "large-model",
+                      "stablelm",
+                      "video",
+                      "video-question-answering",
+                      "video-understanding"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -478,12 +769,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters",
+                    "homepage": null,
                     "id": 616083282,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-03-14T08:12:53Z",
+                    "open_issues": 112,
                     "owner": "OpenGVLab",
                     "repo": "LLaMA-Adapter",
-                    "stars": 5914
+                    "stars": 5914,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 }
@@ -501,12 +797,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2025] OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding? ",
+                    "homepage": "https://joeleelyf.github.io/OVO-Bench/",
                     "id": 896852708,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-07-24T11:11:51Z",
+                    "open_issues": 8,
                     "owner": "JoeLeelyf",
                     "repo": "OVO-Bench",
-                    "stars": 161
+                    "stars": 161,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -517,12 +818,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2025]Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction",
+                    "homepage": null,
                     "id": 904213312,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-14T18:27:15Z",
+                    "open_issues": 6,
                     "owner": "Mark12Ding",
                     "repo": "Dispider",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -533,12 +839,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "✨✨[NeurIPS 2025] VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction",
+                    "homepage": null,
                     "id": 840678954,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-03-28T00:56:46Z",
+                    "open_issues": 59,
                     "owner": "VITA-MLLM",
                     "repo": "VITA",
-                    "stars": 2534
+                    "stars": 2534,
+                    "topics": [
+                      "large-multimodal-models",
+                      "multimodal-large-language-models",
+                      "omni-language-model",
+                      "omni-modal-video-understanding",
+                      "omni-model"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 }
@@ -556,12 +873,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sparrow: Data-Efficient Video-LLM with Text-to-Image Augmentation",
+                    "homepage": null,
                     "id": 946027332,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-03-28T06:21:29Z",
+                    "open_issues": 0,
                     "owner": "VITA-MLLM",
                     "repo": "Sparrow",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 },
@@ -572,12 +894,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repo for paper \"T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs\"",
+                    "homepage": null,
                     "id": 891831268,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-09-03T02:01:33Z",
+                    "open_issues": 0,
                     "owner": "xjtupanda",
                     "repo": "Sparrow",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
                 }
@@ -604,12 +931,31 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.",
+                        "homepage": "https://vchat.opengvlab.com/",
                         "id": 629922458,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-07-17T10:31:09Z",
+                        "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3347
+                        "stars": 3347,
+                        "topics": [
+                          "big-model",
+                          "captioning-videos",
+                          "chat",
+                          "chatgpt",
+                          "foundation-models",
+                          "gradio",
+                          "langchain",
+                          "large-language-models",
+                          "large-model",
+                          "stablelm",
+                          "video",
+                          "video-question-answering",
+                          "video-understanding"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:51:56.946Z"
                     },
@@ -620,12 +966,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ACL 2024 Findings] \"TempCompass: Do Video LLMs Really Understand Videos?\", Yuanxin Liu, Shicheng Li, Yi Liu, Yuxiang Wang, Shuhuai Ren, Lei Li, Sishuo Chen, Xu Sun, Lu Hou",
+                        "homepage": null,
                         "id": 763950951,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-04-04T09:01:48Z",
+                        "open_issues": 2,
                         "owner": "llyx97",
                         "repo": "TempCompass",
-                        "stars": 133
+                        "stars": 133,
+                        "topics": [
+                          "evaluation",
+                          "temporal-perception",
+                          "video-llms"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:51:56.946Z"
                     },
@@ -636,12 +991,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "✨✨[CVPR 2025] Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis",
+                        "homepage": null,
                         "id": 809380023,
                         "language": null,
+                        "license": null,
                         "last_commit": "2025-12-08T06:31:55Z",
+                        "open_issues": 11,
                         "owner": "MME-Benchmarks",
                         "repo": "Video-MME",
-                        "stars": 789
+                        "stars": 789,
+                        "topics": [
+                          "large-language-models",
+                          "large-vision-language-models",
+                          "mme",
+                          "multimodal-large-language-models",
+                          "video",
+                          "video-mme"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:51:56.946Z"
                     },
@@ -652,12 +1019,37 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks",
+                        "homepage": "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard",
                         "id": 725956246,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-08-28T10:38:57Z",
+                        "open_issues": 300,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4362
+                        "stars": 4362,
+                        "topics": [
+                          "chatgpt",
+                          "claude",
+                          "clip",
+                          "computer-vision",
+                          "evaluation",
+                          "gemini",
+                          "gpt",
+                          "gpt-4v",
+                          "gpt4",
+                          "large-language-models",
+                          "llava",
+                          "llm",
+                          "multi-modal",
+                          "openai",
+                          "openai-api",
+                          "pytorch",
+                          "qwen",
+                          "vit",
+                          "vqa"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:51:56.946Z"
                     },
@@ -668,12 +1060,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "🔥🔥MLVU: Multi-task Long Video Understanding Benchmark",
+                        "homepage": null,
                         "id": 809243585,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2026-04-13T13:18:00Z",
+                        "open_issues": 12,
                         "owner": "JUNJIE99",
                         "repo": "MLVU",
-                        "stars": 268
+                        "stars": 268,
+                        "topics": [
+                          "benchmark",
+                          "long-video-understanding",
+                          "mlvu",
+                          "multi-task",
+                          "multimodal-large-language-models",
+                          "videos"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:51:56.946Z"
                     },
@@ -684,12 +1088,36 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS 2024] Official code for HourVideo: 1-Hour Video Language Understanding",
+                        "homepage": "https://hourvideo.stanford.edu",
                         "id": 895154477,
                         "language": "Jupyter Notebook",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-07-12T20:23:42Z",
+                        "open_issues": 0,
                         "owner": "keshik6",
                         "repo": "HourVideo",
-                        "stars": 145
+                        "stars": 145,
+                        "topics": [
+                          "1-hour-video-language-understanding",
+                          "benchmark-dataset",
+                          "egocentric-videos",
+                          "evals",
+                          "gemini-pro",
+                          "gpt-4",
+                          "long-context-understanding",
+                          "long-form-video-language-understanding",
+                          "multimodal-large-language-models",
+                          "multiple-choice-questions",
+                          "navigation",
+                          "neurips-2024",
+                          "perception",
+                          "reasoning",
+                          "spatial-intelligence",
+                          "summarization",
+                          "video-language-understanding",
+                          "visual-reasoning"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:51:56.946Z"
                     }
@@ -713,15 +1141,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:51:56.946Z",
+    "last_updated": "2026-08-29T05:02:08.416Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
+      "homepage": null,
       "id": 898411035,
       "language": null,
+      "license": null,
       "last_commit": "2025-09-01T13:33:15Z",
+      "open_issues": 4,
       "owner": "pipixin321",
       "repo": "Awesome-Video-MLLMs",
-      "stars": 71
+      "stars": 71,
+      "topics": [
+        "awesome-list",
+        "benchmarks",
+        "large-language-models",
+        "mllm",
+        "multimodal-instruction-tuning",
+        "multimodal-video-understanding",
+        "video-understanding"
+      ]
     },
     "original_repository_sha": "eace0b0b2ea071fb10b0eca21ecbe09ccfe16bcd",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-MLLMs",
