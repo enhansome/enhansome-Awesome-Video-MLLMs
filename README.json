@@ -23,7 +23,7 @@
                     "open_issues": 315,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10148,
+                    "stars": 10150,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -54,10 +54,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-31T02:59:36Z",
-                    "open_issues": 58,
+                    "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26270,
+                    "stars": 26276,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -83,7 +83,7 @@
                     "open_issues": 82,
                     "owner": "PaddlePaddle",
                     "repo": "ERNIE",
-                    "stars": 7737,
+                    "stars": 7736,
                     "topics": [
                       "ernie",
                       "ernie-45",
@@ -132,7 +132,7 @@
                     "open_issues": 315,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10148,
+                    "stars": 10150,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -191,7 +191,7 @@
                     "open_issues": 425,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19878,
+                    "stars": 19886,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -258,7 +258,7 @@
                     "open_issues": 425,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19878,
+                    "stars": 19886,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -297,10 +297,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-31T02:59:36Z",
-                    "open_issues": 58,
+                    "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26270,
+                    "stars": 26276,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -368,7 +368,7 @@
                     "open_issues": 315,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10148,
+                    "stars": 10150,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -1025,10 +1025,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-08-31T09:01:36Z",
-                        "open_issues": 299,
+                        "open_issues": 301,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4370,
+                        "stars": 4374,
                         "topics": [
                           "chatgpt",
                           "claude",
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:33:28.810Z",
+    "last_updated": "2026-09-02T08:58:02.528Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
