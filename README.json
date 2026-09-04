@@ -23,7 +23,7 @@
                     "open_issues": 315,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10149,
+                    "stars": 10148,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -57,7 +57,7 @@
                     "open_issues": 58,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26285,
+                    "stars": 26292,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -83,7 +83,7 @@
                     "open_issues": 82,
                     "owner": "PaddlePaddle",
                     "repo": "ERNIE",
-                    "stars": 7735,
+                    "stars": 7734,
                     "topics": [
                       "ernie",
                       "ernie-45",
@@ -132,7 +132,7 @@
                     "open_issues": 315,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10149,
+                    "stars": 10148,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -191,7 +191,7 @@
                     "open_issues": 424,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19894,
+                    "stars": 19899,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -258,7 +258,7 @@
                     "open_issues": 424,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19894,
+                    "stars": 19899,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -300,7 +300,7 @@
                     "open_issues": 58,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26285,
+                    "stars": 26292,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -368,7 +368,7 @@
                     "open_issues": 315,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10149,
+                    "stars": 10148,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -402,7 +402,7 @@
                     "open_issues": 87,
                     "owner": "DAMO-NLP-SG",
                     "repo": "VideoLLaMA2",
-                    "stars": 1306,
+                    "stars": 1307,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -423,7 +423,7 @@
                     "open_issues": 29,
                     "owner": "ShareGPT4Omni",
                     "repo": "ShareGPT4Video",
-                    "stars": 1093,
+                    "stars": 1094,
                     "topics": [
                       "chatgpt",
                       "gpt",
@@ -493,7 +493,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-03-12T01:04:00Z",
-                    "open_issues": 77,
+                    "open_issues": 78,
                     "owner": "NVlabs",
                     "repo": "VILA",
                     "stars": 3860,
@@ -585,7 +585,7 @@
                     "open_issues": 44,
                     "owner": "JIA-Lab-research",
                     "repo": "LLaMA-VID",
-                    "stars": 862,
+                    "stars": 861,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -606,7 +606,7 @@
                     "open_issues": 125,
                     "owner": "PKU-YuanGroup",
                     "repo": "Video-LLaVA",
-                    "stars": 3499,
+                    "stars": 3500,
                     "topics": [
                       "instruction-tuning",
                       "large-vision-language-model",
@@ -743,7 +743,7 @@
                     "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3347,
+                    "stars": 3348,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -778,7 +778,7 @@
                     "open_issues": 112,
                     "owner": "OpenGVLab",
                     "repo": "LLaMA-Adapter",
-                    "stars": 5915,
+                    "stars": 5914,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -848,7 +848,7 @@
                     "open_issues": 59,
                     "owner": "VITA-MLLM",
                     "repo": "VITA",
-                    "stars": 2532,
+                    "stars": 2534,
                     "topics": [
                       "large-multimodal-models",
                       "multimodal-large-language-models",
@@ -940,7 +940,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3347,
+                        "stars": 3348,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -1024,11 +1024,11 @@
                         "id": 725956246,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-03T03:03:14Z",
-                        "open_issues": 302,
+                        "last_commit": "2026-09-04T07:49:10Z",
+                        "open_issues": 301,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4376,
+                        "stars": 4377,
                         "topics": [
                           "chatgpt",
                           "claude",
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T09:06:55.057Z",
+    "last_updated": "2026-09-04T08:59:34.021Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
