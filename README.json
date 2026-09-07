@@ -57,7 +57,7 @@
                     "open_issues": 58,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26304,
+                    "stars": 26309,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -191,7 +191,7 @@
                     "open_issues": 426,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19902,
+                    "stars": 19909,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -258,7 +258,7 @@
                     "open_issues": 426,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 19902,
+                    "stars": 19909,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -300,7 +300,7 @@
                     "open_issues": 58,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26304,
+                    "stars": 26309,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -975,7 +975,7 @@
                         "open_issues": 2,
                         "owner": "llyx97",
                         "repo": "TempCompass",
-                        "stars": 133,
+                        "stars": 132,
                         "topics": [
                           "evaluation",
                           "temporal-perception",
@@ -1024,11 +1024,11 @@
                         "id": 725956246,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-04T07:49:10Z",
+                        "last_commit": "2026-09-07T01:43:12Z",
                         "open_issues": 303,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4378,
+                        "stars": 4377,
                         "topics": [
                           "chatgpt",
                           "claude",
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:48:47.930Z",
+    "last_updated": "2026-09-07T09:36:50.889Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
@@ -1153,7 +1153,7 @@
       "open_issues": 5,
       "owner": "pipixin321",
       "repo": "Awesome-Video-MLLMs",
-      "stars": 72,
+      "stars": 73,
       "topics": [
         "awesome-list",
         "benchmarks",
