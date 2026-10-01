@@ -57,7 +57,7 @@
                     "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26480,
+                    "stars": 26484,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -83,7 +83,7 @@
                     "open_issues": 81,
                     "owner": "PaddlePaddle",
                     "repo": "ERNIE",
-                    "stars": 7737,
+                    "stars": 7738,
                     "topics": [
                       "ernie",
                       "ernie-45",
@@ -191,7 +191,7 @@
                     "open_issues": 428,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20024,
+                    "stars": 20030,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -258,7 +258,7 @@
                     "open_issues": 428,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20024,
+                    "stars": 20030,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -300,7 +300,7 @@
                     "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26480,
+                    "stars": 26484,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -323,7 +323,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-04-02T12:30:45Z",
-                    "open_issues": 101,
+                    "open_issues": 102,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
                     "stars": 2539,
@@ -659,7 +659,7 @@
                     "open_issues": 27,
                     "owner": "mbzuai-oryx",
                     "repo": "Video-ChatGPT",
-                    "stars": 1511,
+                    "stars": 1512,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -775,7 +775,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2024-03-14T08:12:53Z",
-                    "open_issues": 112,
+                    "open_issues": 113,
                     "owner": "OpenGVLab",
                     "repo": "LLaMA-Adapter",
                     "stars": 5913,
@@ -1025,10 +1025,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-09-30T03:07:37Z",
-                        "open_issues": 294,
+                        "open_issues": 296,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4420,
+                        "stars": 4421,
                         "topics": [
                           "chatgpt",
                           "claude",
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:40:48.370Z",
+    "last_updated": "2026-10-01T11:07:41.227Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
