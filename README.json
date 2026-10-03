@@ -57,7 +57,7 @@
                     "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26490,
+                    "stars": 26493,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -166,7 +166,7 @@
                     "open_issues": 6,
                     "owner": "VITA-MLLM",
                     "repo": "Long-VITA",
-                    "stars": 306,
+                    "stars": 307,
                     "topics": [
                       "long-context",
                       "mllm",
@@ -300,7 +300,7 @@
                     "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26490,
+                    "stars": 26493,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -743,7 +743,7 @@
                     "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3354,
+                    "stars": 3355,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -940,7 +940,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3354,
+                        "stars": 3355,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -1025,10 +1025,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-09-30T03:07:37Z",
-                        "open_issues": 297,
+                        "open_issues": 299,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4425,
+                        "stars": 4426,
                         "topics": [
                           "chatgpt",
                           "claude",
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:29:20.365Z",
+    "last_updated": "2026-10-03T10:00:31.901Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
