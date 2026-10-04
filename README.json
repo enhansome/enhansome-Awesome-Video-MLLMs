@@ -23,7 +23,7 @@
                     "open_issues": 317,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10167,
+                    "stars": 10166,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -132,7 +132,7 @@
                     "open_issues": 317,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10167,
+                    "stars": 10166,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -191,7 +191,7 @@
                     "open_issues": 437,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20032,
+                    "stars": 20033,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -258,7 +258,7 @@
                     "open_issues": 437,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20032,
+                    "stars": 20033,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -368,7 +368,7 @@
                     "open_issues": 317,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10167,
+                    "stars": 10166,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -454,7 +454,7 @@
                     "open_issues": 29,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "LongVA",
-                    "stars": 412,
+                    "stars": 413,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -538,7 +538,7 @@
                     "open_issues": 20,
                     "owner": "PKU-YuanGroup",
                     "repo": "Chat-UniVi",
-                    "stars": 944,
+                    "stars": 943,
                     "topics": [
                       "image-understanding",
                       "large-language-models",
@@ -848,7 +848,7 @@
                     "open_issues": 57,
                     "owner": "VITA-MLLM",
                     "repo": "VITA",
-                    "stars": 2536,
+                    "stars": 2537,
                     "topics": [
                       "large-multimodal-models",
                       "multimodal-large-language-models",
@@ -1028,7 +1028,7 @@
                         "open_issues": 299,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4426,
+                        "stars": 4427,
                         "topics": [
                           "chatgpt",
                           "claude",
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:00:31.901Z",
+    "last_updated": "2026-10-04T10:43:15.669Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
