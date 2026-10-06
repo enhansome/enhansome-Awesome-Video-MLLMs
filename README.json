@@ -57,7 +57,7 @@
                     "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26498,
+                    "stars": 26500,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -166,7 +166,7 @@
                     "open_issues": 6,
                     "owner": "VITA-MLLM",
                     "repo": "Long-VITA",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "long-context",
                       "mllm",
@@ -191,7 +191,7 @@
                     "open_issues": 437,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20035,
+                    "stars": 20042,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -258,7 +258,7 @@
                     "open_issues": 437,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20035,
+                    "stars": 20042,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -300,7 +300,7 @@
                     "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26498,
+                    "stars": 26500,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -402,7 +402,7 @@
                     "open_issues": 87,
                     "owner": "DAMO-NLP-SG",
                     "repo": "VideoLLaMA2",
-                    "stars": 1307,
+                    "stars": 1306,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -564,7 +564,7 @@
                     "open_issues": 14,
                     "owner": "huangb23",
                     "repo": "VTimeLLM",
-                    "stars": 296,
+                    "stars": 295,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -585,7 +585,7 @@
                     "open_issues": 44,
                     "owner": "JIA-Lab-research",
                     "repo": "LLaMA-VID",
-                    "stars": 862,
+                    "stars": 861,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -606,7 +606,7 @@
                     "open_issues": 126,
                     "owner": "PKU-YuanGroup",
                     "repo": "Video-LLaVA",
-                    "stars": 3503,
+                    "stars": 3504,
                     "topics": [
                       "instruction-tuning",
                       "large-vision-language-model",
@@ -631,7 +631,7 @@
                     "open_issues": 42,
                     "owner": "wenhaochai",
                     "repo": "MovieChat",
-                    "stars": 707,
+                    "stars": 706,
                     "topics": [
                       "computer-vision",
                       "dataset",
@@ -659,7 +659,7 @@
                     "open_issues": 27,
                     "owner": "mbzuai-oryx",
                     "repo": "Video-ChatGPT",
-                    "stars": 1512,
+                    "stars": 1513,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -713,7 +713,7 @@
                     "open_issues": 69,
                     "owner": "DAMO-NLP-SG",
                     "repo": "Video-LLaMA",
-                    "stars": 3140,
+                    "stars": 3139,
                     "topics": [
                       "blip2",
                       "cross-modal-pretraining",
@@ -778,7 +778,7 @@
                     "open_issues": 112,
                     "owner": "OpenGVLab",
                     "repo": "LLaMA-Adapter",
-                    "stars": 5912,
+                    "stars": 5911,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -1000,7 +1000,7 @@
                         "open_issues": 11,
                         "owner": "MME-Benchmarks",
                         "repo": "Video-MME",
-                        "stars": 797,
+                        "stars": 798,
                         "topics": [
                           "large-language-models",
                           "large-vision-language-models",
@@ -1025,10 +1025,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-09-30T03:07:37Z",
-                        "open_issues": 301,
+                        "open_issues": 324,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4427,
+                        "stars": 4430,
                         "topics": [
                           "chatgpt",
                           "claude",
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T11:46:36.075Z",
+    "last_updated": "2026-10-06T10:43:43.881Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
