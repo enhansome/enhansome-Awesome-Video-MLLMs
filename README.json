@@ -23,7 +23,7 @@
                     "open_issues": 317,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10166,
+                    "stars": 10165,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -132,7 +132,7 @@
                     "open_issues": 317,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10166,
+                    "stars": 10165,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -166,7 +166,7 @@
                     "open_issues": 6,
                     "owner": "VITA-MLLM",
                     "repo": "Long-VITA",
-                    "stars": 310,
+                    "stars": 311,
                     "topics": [
                       "long-context",
                       "mllm",
@@ -368,7 +368,7 @@
                     "open_issues": 317,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10166,
+                    "stars": 10165,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -585,7 +585,7 @@
                     "open_issues": 44,
                     "owner": "JIA-Lab-research",
                     "repo": "LLaMA-VID",
-                    "stars": 861,
+                    "stars": 862,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -845,10 +845,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2025-03-28T00:56:46Z",
-                    "open_issues": 59,
+                    "open_issues": 60,
                     "owner": "VITA-MLLM",
                     "repo": "VITA",
-                    "stars": 2535,
+                    "stars": 2536,
                     "topics": [
                       "large-multimodal-models",
                       "multimodal-large-language-models",
@@ -1025,10 +1025,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-09-30T03:07:37Z",
-                        "open_issues": 324,
+                        "open_issues": 327,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4430,
+                        "stars": 4432,
                         "topics": [
                           "chatgpt",
                           "claude",
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:27:19.937Z",
+    "last_updated": "2026-10-07T11:17:06.449Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
