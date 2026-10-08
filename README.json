@@ -23,7 +23,7 @@
                     "open_issues": 317,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10165,
+                    "stars": 10166,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -57,7 +57,7 @@
                     "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26500,
+                    "stars": 26506,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -132,7 +132,7 @@
                     "open_issues": 317,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10165,
+                    "stars": 10166,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -166,7 +166,7 @@
                     "open_issues": 6,
                     "owner": "VITA-MLLM",
                     "repo": "Long-VITA",
-                    "stars": 311,
+                    "stars": 313,
                     "topics": [
                       "long-context",
                       "mllm",
@@ -300,7 +300,7 @@
                     "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26500,
+                    "stars": 26506,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -368,7 +368,7 @@
                     "open_issues": 317,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10165,
+                    "stars": 10166,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -564,7 +564,7 @@
                     "open_issues": 14,
                     "owner": "huangb23",
                     "repo": "VTimeLLM",
-                    "stars": 295,
+                    "stars": 294,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -585,7 +585,7 @@
                     "open_issues": 44,
                     "owner": "JIA-Lab-research",
                     "repo": "LLaMA-VID",
-                    "stars": 862,
+                    "stars": 861,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -806,7 +806,7 @@
                     "open_issues": 10,
                     "owner": "JoeLeelyf",
                     "repo": "OVO-Bench",
-                    "stars": 164,
+                    "stars": 165,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -1000,7 +1000,7 @@
                         "open_issues": 11,
                         "owner": "MME-Benchmarks",
                         "repo": "Video-MME",
-                        "stars": 798,
+                        "stars": 799,
                         "topics": [
                           "large-language-models",
                           "large-vision-language-models",
@@ -1024,11 +1024,11 @@
                         "id": 725956246,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-30T03:07:37Z",
-                        "open_issues": 327,
+                        "last_commit": "2026-10-08T09:19:43Z",
+                        "open_issues": 324,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4432,
+                        "stars": 4433,
                         "topics": [
                           "chatgpt",
                           "claude",
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:17:06.449Z",
+    "last_updated": "2026-10-08T11:33:49.205Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
