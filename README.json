@@ -53,11 +53,11 @@
                     "id": 749647889,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T07:18:02Z",
-                    "open_issues": 62,
+                    "last_commit": "2026-10-15T03:54:05Z",
+                    "open_issues": 61,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26721,
+                    "stars": 26771,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -166,7 +166,7 @@
                     "open_issues": 6,
                     "owner": "VITA-MLLM",
                     "repo": "Long-VITA",
-                    "stars": 319,
+                    "stars": 320,
                     "topics": [
                       "long-context",
                       "mllm",
@@ -191,7 +191,7 @@
                     "open_issues": 441,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20072,
+                    "stars": 20080,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -258,7 +258,7 @@
                     "open_issues": 441,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20072,
+                    "stars": 20080,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -296,11 +296,11 @@
                     "id": 749647889,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T07:18:02Z",
-                    "open_issues": 62,
+                    "last_commit": "2026-10-15T03:54:05Z",
+                    "open_issues": 61,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26721,
+                    "stars": 26771,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -402,7 +402,7 @@
                     "open_issues": 88,
                     "owner": "DAMO-NLP-SG",
                     "repo": "VideoLLaMA2",
-                    "stars": 1305,
+                    "stars": 1306,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -585,7 +585,7 @@
                     "open_issues": 44,
                     "owner": "JIA-Lab-research",
                     "repo": "LLaMA-VID",
-                    "stars": 860,
+                    "stars": 861,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -743,7 +743,7 @@
                     "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3357,
+                    "stars": 3358,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -848,7 +848,7 @@
                     "open_issues": 60,
                     "owner": "VITA-MLLM",
                     "repo": "VITA",
-                    "stars": 2537,
+                    "stars": 2538,
                     "topics": [
                       "large-multimodal-models",
                       "multimodal-large-language-models",
@@ -940,7 +940,7 @@
                         "open_issues": 75,
                         "owner": "OpenGVLab",
                         "repo": "Ask-Anything",
-                        "stars": 3357,
+                        "stars": 3358,
                         "topics": [
                           "big-model",
                           "captioning-videos",
@@ -1000,7 +1000,7 @@
                         "open_issues": 11,
                         "owner": "MME-Benchmarks",
                         "repo": "Video-MME",
-                        "stars": 799,
+                        "stars": 800,
                         "topics": [
                           "large-language-models",
                           "large-vision-language-models",
@@ -1024,11 +1024,11 @@
                         "id": 725956246,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-14T08:46:42Z",
+                        "last_commit": "2026-10-14T11:08:07Z",
                         "open_issues": 328,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4439,
+                        "stars": 4440,
                         "topics": [
                           "chatgpt",
                           "claude",
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T09:40:33.295Z",
+    "last_updated": "2026-10-15T09:19:23.095Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
