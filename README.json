@@ -53,11 +53,11 @@
                     "id": 749647889,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T01:31:15Z",
+                    "last_commit": "2026-10-30T08:59:45Z",
                     "open_issues": 64,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 27012,
+                    "stars": 27026,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -166,7 +166,7 @@
                     "open_issues": 6,
                     "owner": "VITA-MLLM",
                     "repo": "Long-VITA",
-                    "stars": 338,
+                    "stars": 339,
                     "topics": [
                       "long-context",
                       "mllm",
@@ -191,7 +191,7 @@
                     "open_issues": 441,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20143,
+                    "stars": 20148,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -258,7 +258,7 @@
                     "open_issues": 441,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20143,
+                    "stars": 20148,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -296,11 +296,11 @@
                     "id": 749647889,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T01:31:15Z",
+                    "last_commit": "2026-10-30T08:59:45Z",
                     "open_issues": 64,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 27012,
+                    "stars": 27026,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -402,7 +402,7 @@
                     "open_issues": 88,
                     "owner": "DAMO-NLP-SG",
                     "repo": "VideoLLaMA2",
-                    "stars": 1307,
+                    "stars": 1308,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -606,7 +606,7 @@
                     "open_issues": 126,
                     "owner": "PKU-YuanGroup",
                     "repo": "Video-LLaVA",
-                    "stars": 3509,
+                    "stars": 3508,
                     "topics": [
                       "instruction-tuning",
                       "large-vision-language-model",
@@ -806,7 +806,7 @@
                     "open_issues": 10,
                     "owner": "JoeLeelyf",
                     "repo": "OVO-Bench",
-                    "stars": 170,
+                    "stars": 171,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T11:02:08.451Z",
+    "last_updated": "2026-10-30T10:58:59.039Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
