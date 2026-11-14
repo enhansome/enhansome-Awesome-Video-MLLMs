@@ -57,7 +57,7 @@
                     "open_issues": 66,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 27143,
+                    "stars": 27148,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -191,7 +191,7 @@
                     "open_issues": 441,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20210,
+                    "stars": 20213,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -258,7 +258,7 @@
                     "open_issues": 441,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20210,
+                    "stars": 20213,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -300,7 +300,7 @@
                     "open_issues": 66,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 27143,
+                    "stars": 27148,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -659,7 +659,7 @@
                     "open_issues": 28,
                     "owner": "mbzuai-oryx",
                     "repo": "Video-ChatGPT",
-                    "stars": 1516,
+                    "stars": 1517,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -1028,7 +1028,7 @@
                         "open_issues": 355,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4488,
+                        "stars": 4490,
                         "topics": [
                           "chatgpt",
                           "claude",
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:31:25.848Z",
+    "last_updated": "2026-11-14T11:41:18.559Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
