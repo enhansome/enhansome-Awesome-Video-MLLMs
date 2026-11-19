@@ -166,7 +166,7 @@
                     "open_issues": 6,
                     "owner": "VITA-MLLM",
                     "repo": "Long-VITA",
-                    "stars": 356,
+                    "stars": 358,
                     "topics": [
                       "long-context",
                       "mllm",
@@ -191,7 +191,7 @@
                     "open_issues": 442,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20232,
+                    "stars": 20240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -258,7 +258,7 @@
                     "open_issues": 442,
                     "owner": "QwenLM",
                     "repo": "Qwen3-VL",
-                    "stars": 20232,
+                    "stars": 20240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:56.946Z"
@@ -1024,11 +1024,11 @@
                         "id": 725956246,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-18T07:14:06Z",
-                        "open_issues": 343,
+                        "last_commit": "2026-11-19T11:14:01Z",
+                        "open_issues": 345,
                         "owner": "open-compass",
                         "repo": "VLMEvalKit",
-                        "stars": 4498,
+                        "stars": 4500,
                         "topics": [
                           "chatgpt",
                           "claude",
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T13:20:39.485Z",
+    "last_updated": "2026-11-19T13:46:05.940Z",
     "original_repository_info": {
       "archived": false,
       "description": ":fire: :fire: :fire: Awesome MLLMs/Benchmarks for Short/Long/Streaming Video Understanding :video_camera:",
